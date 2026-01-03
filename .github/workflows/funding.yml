@@ -1,0 +1,18 @@
+            - name: Sponsor Labeler
+  # You may pin to the exact commit or the version.
+  # uses: devlooped/actions-sponsor@843c61fdc411c2bb79dca853035a1f91e5a3fc6d
+  uses: devlooped/actions-sponsor@v1
+  with:
+    # The label to apply to the issue or pull request. Defaults to "sponsor ❤️".
+    label: # optional, default is sponsor 💜
+    # The label to apply when sponsor amount is above the gold-amount. Defaults to "sponsor 💛".
+    gold-label: # optional, default is sponsor 💛
+    # Sponsors over this amount are labeled with gold-label instead. Defaults to 100.
+    gold-amount: # optional, default is 100
+    # The account to check for sponsorship. Defaults to the repository owner.
+    sponsorable: # optional, default is ${{ github.repository_owner }}
+    # The token to use for querying the GitHub API for sponsorship information. Typically set to secrets.GH_TOKEN.
+    token: 
+    # Whether to perform verbose logging when failing to find a sponsorship. Defaults to false.
+    verbose: # optional
+          
