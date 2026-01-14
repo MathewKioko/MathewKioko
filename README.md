@@ -7,7 +7,8 @@
 </p>
 
 ---
-About Me
+##About Me
+
 Full-Stack Developer passionate about building scalable and user-focused web applications.
 Continuously learning and adopting modern web technologies and best practices.
 Experienced in developing real-world projects from concept to deployment.
