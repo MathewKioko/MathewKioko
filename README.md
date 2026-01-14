@@ -7,12 +7,11 @@
 </p>
 
 ---
-
-## 👨‍💻 About Me
-- 💻 Full-Stack Developer
-- 🌱 Learning modern web technologies
-- 🚀 Building real-world projects
-- 🤝 Open to collaboration
+About Me
+Full-Stack Developer passionate about building scalable and user-focused web applications.
+Continuously learning and adopting modern web technologies and best practices.
+Experienced in developing real-world projects from concept to deployment.
+Open to collaboration on innovative ideas, open-source projects, and impactful products.
 
 ---
 
