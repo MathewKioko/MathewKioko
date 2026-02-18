@@ -89,8 +89,8 @@
 <!-- START: pinned-projects -->
 | Project | Status | Link | Stars |
 |---------|--------|------|-------|
-| TicketHub | Active | [🔗](https://github.com/MathewKioko/example1) | ⭐ |
-| JAMII LOAN | Active | [🔗](https://github.com/MathewKioko/example2) | ⭐ |
+| TicketHub | Active | [🔗]([https://github.com/MathewKioko/TicketHub) 
+| UKULIMA-SMART| Active | [🔗](https://github.com/MathewKioko/UKULIMA-SMART)
 <!-- END: pinned-projects -->
 
 > ⚠️ Use [pinned-projects-action](https://github.com/abhisheknaiidu/awesome-github-profile-readme#pinned-repositories) to auto-update.
