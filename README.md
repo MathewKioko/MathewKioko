@@ -70,6 +70,55 @@ Open to collaboration on innovative ideas, open-source projects, and impactful p
 </p>
 
 ---
+<div align="center">
+
+  <h2>
+    📊 Profile Stats
+    <img
+      height="40"
+      alt="Mathew Kioko"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+  </h2>
+
+  <table align="center">
+    <tr>
+      <td><b>👀 Views</b></td>
+      <td><b>👤 Followers</b></td>
+      <td><b>🌟 Stars</b></td>
+      <td><b>✅ Awesome</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=MathewKioko&style=flat-square" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/followers/MathewKioko?style=social" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/MathewKioko?style=social" />
+      </td>
+      <td>
+        <img src="https://awesome.re/badge.svg" />
+      </td>
+    </tr>
+  </table>
+
+  <div align="center">
+    <a href="https://user-badge.committers.top/kenya_public/MathewKioko">
+      <img src="https://user-badge.committers.top/kenya_public/MathewKioko.svg" height="24" />
+    </a>
+    <a href="https://user-badge.committers.top/kenya/MathewKioko">
+      <img src="https://user-badge.committers.top/kenya/MathewKioko.svg" height="24" />
+    </a>
+  </div>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/Organization-MathewKioko-6a5acd?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Drive--for--MERN-Open%20Source-00ccff?style=for-the-badge" />
+  </div>
+
+</div>
 
 ## 🐍 Contribution Snake (Auto Updates)
 
