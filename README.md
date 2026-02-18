@@ -86,13 +86,9 @@
 <!-- This section is updated automatically by GitHub Actions / waka-readme -->
 | Project | Status | Link | Stars |
 |---------|--------|------|-------|
-| Example Project 1 | Active | [🔗](https://github.com/MathewKioko/example1) | ⭐ |
-| Example Project 2 | Active | [🔗](https://github.com/MathewKioko/example2) | ⭐ |
+| TicketHub| Active | [🔗](https://github.com/MathewKioko/example1) | ⭐ |
+| JAMII LOAN| Active | [🔗](https://github.com/MathewKioko/example2) | ⭐ |
 <!--END_SECTION:waka-->
-
-> ⚡ **Note:** Replace example projects with your actual repos; automation scripts will keep it up-to-date.
-
----
 
 ## 🎮 Fun Zone
 
