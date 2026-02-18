@@ -40,7 +40,6 @@
 ## 📊 Profile Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathewKioko&show_icons=true&count_private=true&theme=radical&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathewKioko&theme=radical&hide_border=true"/>
   <img src="https://ghchart.rshah.org/MathewKioko" alt="GitHub Contribution Chart"/>
 </div>
