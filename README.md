@@ -75,10 +75,10 @@
 ---
 
 ## 📌 Top Languages
+## 📌 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewKioko&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewKioko&layout=compact&theme=radical&hide_border=true)](https://github.com/MathewKioko)
 
----
 
 ## 🏆 Pinned Projects (Auto-update)
 
