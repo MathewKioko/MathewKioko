@@ -3,54 +3,25 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;MERN+Stack+Developer;Building+Scalable+Systems;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Builder;Next.js+Enthusiast;React+Developer;Building+Scalable+Systems" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Full-Stack Software Engineer focused on building scalable, secure, and user-centered web applications.
+Full-Stack Developer passionate about building scalable, secure and user-focused web applications.
 
-I specialize in modern JavaScript ecosystems and backend system design, turning ideas into production-ready solutions. Passionate about clean architecture, performance optimization, and continuous improvement.
+I build real-world systems from concept to deployment using modern JavaScript technologies and backend architecture principles.
 
 Open to collaboration, remote opportunities, and impactful product development.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend**
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
-- Next.js
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- Authentication & Authorization
-
-**Database**
-- MongoDB
-- MySQL
-
-**Tools & DevOps**
-- Git & GitHub
-- Postman
-- VS Code
-- Deployment (Vercel / Render)
-
----
-
-## 📊 GitHub Statistics
+## 🖥️ GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MathewKioko&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=MathewKioko&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MathewKioko&theme=discord&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <br/>
@@ -59,27 +30,58 @@ Open to collaboration, remote opportunities, and impactful product development.
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MathewKioko&theme=radical" />
 </div>
 
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=MathewKioko&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=MathewKioko&theme=radical&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
-## 📈 Contribution Activity
+## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MathewKioko&theme=react-dark)](https://github.com/MathewKioko)
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MathewKioko&theme=flat&no-frame=true&margin-w=5" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MathewKioko&theme=radical&no-frame=true&margin-w=5" />
+</p>
 
 ---
 
-## 👀 Profile Insights
+## 👀 Profile Views & Followers
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MathewKioko&style=flat-square&color=6a5acd" />
-  <img src="https://img.shields.io/github/followers/MathewKioko?style=social" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/MathewKioko?style=for-the-badge" />
+</p>
+
+---
+
+## 🌍 Committer Ranking (Kenya)
+
+<p align="center">
+  <a href="https://user-badge.committers.top/kenya_public/MathewKioko">
+    <img src="https://user-badge.committers.top/kenya_public/MathewKioko.svg" height="24" />
+  </a>
+  <a href="https://user-badge.committers.top/kenya/MathewKioko">
+    <img src="https://user-badge.committers.top/kenya/MathewKioko.svg" height="24" />
+  </a>
 </p>
 
 ---
@@ -94,4 +96,14 @@ Open to collaboration, remote opportunities, and impactful product development.
 
 ---
 
-### ⭐ If you find my work valuable, consider starring a repository.
+## ✨ Fun Zone
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" />
+</p>
+
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### ⭐ Show some love by starring my repositories.
