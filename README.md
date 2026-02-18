@@ -26,6 +26,8 @@
 - 📍 Based in **Kenya**
 
 ---
+[![committers.top badge](https://user-badge.committers.top/kenya/mathewkioko.svg)](https://user-badge.committers.top/kenya/mathewkioko)
+
 
 ## 🔗 Featured Work
 
