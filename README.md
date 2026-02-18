@@ -127,9 +127,6 @@
 </picture>
 
 ---
-
-## ✨ Animated Footer
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00C4CC&width=600&lines=Mathew+Kioko+💻+Fullstack+Engineer;Building+Scalable+Web+Apps+🚀;Open+Source+Contributor+🌍;Future+CTO+in+Making+💎" />
 </p>
