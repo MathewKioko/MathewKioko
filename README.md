@@ -89,7 +89,7 @@
 <!-- START: pinned-projects -->
 | Project | Status | Link | Stars |
 |---------|--------|------|-------|
-| TicketHub | Active | [🔗]([https://github.com/MathewKioko/TicketHub) 
+| TICKET HUB| Active | [🔗](https://github.com/MathewKioko/TicketHub)
 | UKULIMA-SMART| Active | [🔗](https://github.com/MathewKioko/UKULIMA-SMART)
 <!-- END: pinned-projects -->
 
