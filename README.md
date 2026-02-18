@@ -71,12 +71,6 @@
 
 ---
 
-## 📌 Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewKioko&layout=compact&theme=radical&hide_border=true)](https://github.com/MathewKioko?tab=repositories)
-
----
-
 ## 🏆 Pinned Projects (Auto-update)
 
 <!-- START: pinned-projects -->
