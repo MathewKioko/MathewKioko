@@ -70,6 +70,19 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
+<div align="center">
+  <img
+    src="https://ghchart.rshah.org/MathewKioko"
+    alt="GitHub Contribution Chart"
+  />
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathewKioko&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mathew%20Kioko's%20Contribution%20Graph" width="100%"/>
+
+</div>
+
 
 ## 🏆 Pinned Projects (Auto-update)
 
