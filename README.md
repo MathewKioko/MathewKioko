@@ -1,6 +1,5 @@
 <p align="center">
 <a name="readme-top"></a>
-
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hello%20GitHub%20Community!&fontColor=ffffff&fontSize=36"
@@ -14,26 +13,25 @@
     width="100%" 
   />
 </div>
-
 ---
 
 ## 👨‍💻 About Me
 
-- 👋 I'm **Mathew Kioko**
-- 💻 Full-Stack Developer (MERN Stack)
-- 🚀 Building scalable, professional web applications
-- 🌱 Mastering **Next.js, Backend Architecture, System Design**
-- 🎯 Focused on long-term engineering growth
-- 🤝 Open to collaboration on open-source projects
-- 📍 Based in Kenya
+- 👋 I'm **Mathew Kioko**  
+- 💻 Full-Stack Developer (MERN Stack)  
+- 🚀 Building **scalable, production-ready web apps**  
+- 🌱 Specializing in **Next.js, Backend Architecture, System Design**  
+- 🎯 Focused on **long-term engineering growth**  
+- 🤝 Open to collaboration on **open-source projects**  
+- 📍 Based in **Kenya**
 
 ---
 
 ## 🔗 Featured Work
 
-- 🌐 Movie Rating & Streaming Platform (Production System)
-- 🏫 School Management System (Full Backend + DB)
-- 🛠 Multiple deployed real-world web systems
+- 🌐 Movie Rating & Streaming Platform  
+- 🏫 School Management System (Backend + DB)  
+- 🛠 Multiple deployed **real-world web systems**
 
 > I build systems that **actually work** — not demos.
 
@@ -44,7 +42,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MathewKioko&show_icons=true&count_private=true&theme=radical&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathewKioko&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathewKioko&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/MathewKioko" alt="GitHub Contribution Chart"/>
 </div>
 
 ---
@@ -75,41 +73,36 @@
 ---
 
 ## 📌 Top Languages
-## 📌 Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewKioko&layout=compact&theme=radical&hide_border=true)](https://github.com/MathewKioko)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewKioko&layout=compact&theme=radical&hide_border=true)](https://github.com/MathewKioko?tab=repositories)
 
+---
 
 ## 🏆 Pinned Projects (Auto-update)
 
-<!--START_SECTION:waka-->
-<!-- This section is updated automatically by GitHub Actions / waka-readme -->
+<!-- START: pinned-projects -->
 | Project | Status | Link | Stars |
 |---------|--------|------|-------|
-| TicketHub| Active | [🔗](https://github.com/MathewKioko/example1) | ⭐ |
-| JAMII LOAN| Active | [🔗](https://github.com/MathewKioko/example2) | ⭐ |
-<!--END_SECTION:waka-->
+| TicketHub | Active | [🔗](https://github.com/MathewKioko/example1) | ⭐ |
+| JAMII LOAN | Active | [🔗](https://github.com/MathewKioko/example2) | ⭐ |
+<!-- END: pinned-projects -->
+
+> ⚠️ Use [pinned-projects-action](https://github.com/abhisheknaiidu/awesome-github-profile-readme#pinned-repositories) to auto-update.
+
+---
+
+## 🏅 Committer Ranking
+
+![Committer Ranking](https://user-badge.committers.top/kenya/MathewKioko.svg)
+
+---
 
 ## 🎮 Fun Zone
 
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api"/>
-</div>
-
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MathewKioko)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mathew-kioko)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/MathewKioko)
-
-<div align="center">
-  <a href="https://github.com/sponsors/MathewKioko" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor MathewKioko on GitHub">
-  </a>
+  <img src="https://readme-jokes.vercel.app/api"/>
+  <br><br>
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
 
 ---
@@ -117,12 +110,13 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathewKioko/MathewKioko/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathewKioko/MathewKioko/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MathewKioko/MathewKioko/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathewKioko/MathewKioko/main/assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathewKioko/MathewKioko/main/assets/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MathewKioko/MathewKioko/main/assets/github-snake.svg" />
 </picture>
 
 ---
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00C4CC&width=600&lines=Mathew+Kioko+💻+Fullstack+Engineer;Building+Scalable+Web+Apps+🚀;Open+Source+Contributor+🌍;Future+CTO+in+Making+💎" />
 </p>
@@ -130,5 +124,11 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff"/>
+  <a href="https://github.com/sponsors/MathewKioko" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor MathewKioko on GitHub">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff"/>
 </div>
