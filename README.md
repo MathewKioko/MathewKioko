@@ -16,33 +16,53 @@ Open to collaboration on innovative ideas, open-source projects, and impactful p
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=📊GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <h2>
+    🖥️ Github Activity
+    <img
+      height="40"
+      alt="Mathew Kioko"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+  </h2>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MathewKioko&show_icons=true&theme=radical" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=MathewKioko&theme=radical&hide_border=false" />
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Fullstack+Developer;MERN+Stack+Builder;Next.js+Enthusiast;React+Lover;Open+Source+Contributor"
+      />
+    </a>
+  </div>
 
-<table>
-<tr>
-<td width="33%">
+  <div align="center">
+    <img
+      src="https://github-trophies.vercel.app/?username="MathewKioko&theme=discord&no-frame=true&no-bg=true&margin-w=4"
+    />
+  </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathewKioko&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+</div>
 
-</td>
-<td width="33%">
+<div align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username="MathewKioko&theme=radical"
+  />
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathewKioko&theme=transparent" />
-
-</td>
-<td width="33%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MathewKioko&theme=transparent&utc_offset=5.5" />
-
-</td>
-</tr>
-</table>
-</p>
-
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username="MathewKioko&show_icons=true&count_private=true&theme=radical&hide_border=true"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://nirzak-streak-stats.vercel.app/?user="MathewKioko&theme=radical&hide_border=false"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 📈 Activity Graph
