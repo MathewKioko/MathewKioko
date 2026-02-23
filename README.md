@@ -1,6 +1,4 @@
-![Untitled design](https://github.com/user-attachments/assets/02dc175a-8a7a-49ba-9b00-85c8d8bbb8b6)
-
-<p align="center">
+ <p align="center">
 <a name="readme-top"></a>
 <div align="center">
   <img 
