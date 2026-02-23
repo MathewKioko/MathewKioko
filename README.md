@@ -1,3 +1,4 @@
+<img src="./animation.gif" alt="Intro animation"/>
 <p align="center">
 <a name="readme-top"></a>
 <div align="center">
