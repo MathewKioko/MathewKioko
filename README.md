@@ -1,142 +1,71 @@
- <p align="center">
-<a name="readme-top"></a>
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hello%20GitHub%20Community!&fontColor=ffffff&fontSize=36"
-    width="100%" 
-  />
-</div>
+<img align="right" width="320" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 
-<div align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
-    width="100%" 
-  />
-</div>
-
----
+# 👋 Hi, I'm Mathew Kioko
 
 ## 👨‍💻 About Me
 
-- 👋 I'm **Mathew Kioko**  
-- 💻 Full-Stack Developer (MERN Stack)  
-- 🚀 Building **scalable, production-ready web apps**  
-- 🌱 Specializing in **Next.js, Backend Architecture, System Design**  
-- 🎯 Focused on **long-term engineering growth**  
-- 🤝 Open to collaboration on **open-source projects**  
-- 📍 Based in **Kenya**
+- 💻 Full-Stack Developer (MERN Stack)
+- 🚀 Building scalable, production-ready web applications
+- 🌱 Specializing in Next.js, Backend Architecture & System Design
+- 🤖 Passionate about AI-assisted development
+- 🎯 Focused on long-term engineering growth
+- 🤝 Open to collaboration on open-source projects
+- 📍 Based in Kenya
+
+> I build systems that solve real-world problems — not just demos.
+
+<br clear="right"/>
 
 ---
-[![committers.top badge](https://user-badge.committers.top/kenya/mathewkioko.svg)](https://user-badge.committers.top/kenya/mathewkioko)
-<div align="center">
 
 <div align="center">
 
-  <h2>
-    🖥️ Github Activity
-    <img
-      height="40"
-      alt="Mathew Kioko"
-      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
-    />
-  </h2>
+[![committers.top badge](https://user-badge.committers.top/kenya/MathewKioko.svg)](https://user-badge.committers.top/kenya/MathewKioko)
 
-  <p align="left">
-  <img src="https://github.com/MathewKioko/MathewKioko/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
-</p>
-
-  <div align="center">
-    <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Fullstack+Developer;MERN+Stack+Builder;Next.js+Enthusiast;React+Lover;Open+Source+Contributor"
-      />
-    </a>
-  </div>
-  
-<div align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=MathewKioko&show_icons=true&theme=radical"/>
-  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=MathewKioko&theme=radical"/>
 </div>
+
+---
+
+## 🔗 Featured Work
+
+- 🎟 TicketHub – Event Ticketing Platform
+- 🌾 UKULIMA-SMART – Smart Agriculture Solution
+- 🏫 School Management System (Backend + Database)
+- 🎬 Movie Rating & Streaming Platform
+- 🛠 Multiple deployed real-world web systems
+
+---
+
+## 📊 Profile Stats
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%">
+<td><b>👀 Views</b></td>
+<td><b>👤 Followers</b></td>
+<td><b>🌟 Stars</b></td>
+<td><b>🏆 Ranking</b></td>
+</tr>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MathewKioko&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
-
+<tr>
+<td>
+<img src="https://komarev.com/ghpvc/?username=MathewKioko&style=flat-square" />
 </td>
-<td width="33%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathewKioko&theme=transparent" />
-
+<td>
+<img src="https://img.shields.io/github/followers/MathewKioko?style=social" />
 </td>
-<td width="33%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MathewKioko&theme=transparent&utc_offset=5.5" />
+<td>
+<img src="https://img.shields.io/github/stars/MathewKioko?style=social" />
+</td>
 
+<td>
+<img src="https://awesome.re/badge.svg" />
 </td>
 </tr>
 </table>
-</p>
-
-</div>
-## 🔗 Featured Work
-
-- 🌐 Movie Rating & Streaming Platform  
-- 🏫 School Management System (Backend + DB)  
-- 🛠 Multiple deployed **real-world web systems**
-
-> I build systems that **actually work** — not demos.
-
----
-
-<div align="center">
-
-  <h2>
-    📊 Profile Stats
-    <img
-      height="40"
-      alt="Mwaki Denis"
-      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
-    />
-  </h2>
-
-  <table align="center">
-    <tr>
-      <td><b>👀 Views</b></td>
-      <td><b>👤 Followers</b></td>
-      <td><b>🌟 Stars</b></td>
-      <td><b>✅ Awesome</b></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://komarev.com/ghpvc/?username=MathewKioko&style=flat-square" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/github/followers/MathewKioko?style=social" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/github/stars/MathewKioko?style=social" />
-      </td>
-      <td>
-        <img src="https://awesome.re/badge.svg" />
-      </td>
-    </tr>
-  </table>
-
-  <div align="center">
-    <a href="https://user-badge.committers.top/kenya_public/MathewKioko">
-      <img src="https://user-badge.committers.top/kenya_public/MathewKioko.svg" height="24" />
-    </a>
-    <a href="https://user-badge.committers.top/kenya/MathewKioko">
-      <img src="https://user-badge.committers.top/kenya/MathewKioko.svg" height="24" />
-    </a>
-  </div>
-
-  <div align="center">
-    <img src="https://img.shields.io/badge/Organization-MathewKioko-6a5acd?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Drive--for--MERN-Open%20Source-00ccff?style=for-the-badge" />
-  </div>
 
 </div>
 
@@ -145,66 +74,112 @@
 ## 🛠 Current Tech Stack
 
 ### 💻 Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ⚙ Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎨 Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ☁ Deployment
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
-<div align="center">
-  <img
-    src="https://ghchart.rshah.org/MathewKioko"
-    alt="GitHub Contribution Chart"
-  />
-</div>
+
+## 🖥️ GitHub Activity
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathewKioko&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mathew%20Kioko's%20Contribution%20Graph" width="100%"/>
+<img src="https://github.com/MathewKioko/MathewKioko/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=Fullstack+Developer;MERN+Stack+Builder;Next.js+Enthusiast;React+Lover;Open+Source+Contributor" />
 
 </div>
 
+<br>
 
-## 🏆 Pinned Projects (Auto-update)
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=MathewKioko&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=MathewKioko&theme=radical"/>
+</div>
 
-<!-- START: pinned-projects -->
-| Project | Status | Link | Stars |
-|---------|--------|------|-------|
-| TICKET HUB| Active | [🔗](https://github.com/MathewKioko/TicketHub)
-| UKULIMA-SMART| Active | [🔗](https://github.com/MathewKioko/UKULIMA-SMART)
-<!-- END: pinned-projects -->
+<br>
 
-> ⚠️ Use [pinned-projects-action](https://github.com/abhisheknaiidu/awesome-github-profile-readme#pinned-repositories) to auto-update.
+<table>
+<tr>
+
+<td width="33%">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MathewKioko&layout=donut&theme=transparent&hide_border=true&langs_count=8" />
+</td>
+
+<td width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathewKioko&theme=transparent" />
+</td>
+
+<td width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MathewKioko&theme=transparent&utc_offset=3" />
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+<img src="https://ghchart.rshah.org/MathewKioko" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MathewKioko&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mathew%20Kioko's%20Contribution%20Graph" width="100%"/>
+</div>
+
+---
+
+## 🏆 Pinned Projects
+
+| Project | Status | Repository |
+|----------|---------|------------|
+| 🎟 TicketHub | Active | https://github.com/MathewKioko/TicketHub |
+| 🌾 UKULIMA-SMART | Active | https://github.com/MathewKioko/UKULIMA-SMART |
 
 ---
 
 ## 🏅 Committer Ranking
 
-![Committer Ranking](https://user-badge.committers.top/kenya/MathewKioko.svg)
+<div align="center">
+<img src="https://user-badge.committers.top/kenya/MathewKioko.svg" />
+</div>
 
 ---
 
 ## 🎮 Fun Zone
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api"/>
-  <br><br>
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img src="https://readme-jokes.vercel.app/api" />
+
+<br><br>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 ---
@@ -219,18 +194,17 @@
 
 ---
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00C4CC&width=600&lines=Mathew+Kioko+💻+Fullstack+Engineer;Building+Scalable+Web+Apps+🚀;Open+Source+Contributor+🌍;Future+CTO+in+Making+💎" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00C4CC&width=600&lines=Mathew+Kioko+💻+Fullstack+Engineer;Building+Scalable+Web+Apps+🚀;Open+Source+Contributor+🌍;Future+CTO+💎" />
+
+</div>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/sponsors/MathewKioko" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor MathewKioko on GitHub">
-  </a>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff"/>
+
 </div>
+```
